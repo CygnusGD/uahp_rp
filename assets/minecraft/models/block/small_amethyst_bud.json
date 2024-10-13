@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"particle": "block/amethyst_block",
+		"cross": "block/amethyst_block"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 3, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 3], "texture": "#cross"},
+				"east": {"uv": [0, 0, 8, 3], "texture": "#cross"},
+				"south": {"uv": [0, 0, 8, 3], "texture": "#cross"},
+				"west": {"uv": [0, 0, 8, 3], "texture": "#cross"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#cross"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#cross"}
+			}
+		}
+	]
+}

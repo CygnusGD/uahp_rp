@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "block/bamboo_planks_tall",
+		"particle": "block/bamboo_planks"
+	},
+	"elements": [
+		{
+			"name": "top bar",
+			"from": [0, 0, 6],
+			"to": [9, 24, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 16, 4, 0], "texture": "#2"},
+				"south": {"uv": [4, 0, 13, 16], "texture": "#2"},
+				"west": {"uv": [12, 0, 16, 16], "texture": "#2", "cullface": "east"},
+				"up": {"uv": [12, 10, 16, 16], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [12, 10, 16, 16], "rotation": 270, "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "east",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0]
+		}
+	]
+}
