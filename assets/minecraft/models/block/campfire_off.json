@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"parent": "block/block",
 	"textures": {
 		"particle": "block/campfire_log",

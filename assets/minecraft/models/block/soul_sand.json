@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
 		"1": "block/soul_sand",

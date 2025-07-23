@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"parent": "block/block",
 	"textures": {
 		"1": "block/bamboo_planks",
-		"particle": "#texture"
+		"particle": "block/bamboo_planks"
 	},
 	"elements": [
 		{

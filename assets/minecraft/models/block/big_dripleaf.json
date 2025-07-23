@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"parent": "block/block",
 	"textures": {
 		"4": "block/big_dripleaf_back",

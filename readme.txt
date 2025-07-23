@@ -34,6 +34,7 @@ Modified Blocks:
  - Soul sand
  - Mud
  - Dragon egg
+ - Dried ghast
 
 Known Issues:
 
